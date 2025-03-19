@@ -1,5 +1,5 @@
 """
-Descricion: tipos de dats
+Descricion: tipos de datos
 Author: Dvavid Belmont
 Fecha: 08 03 2025
 
