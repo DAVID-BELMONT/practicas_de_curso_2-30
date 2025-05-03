@@ -18,7 +18,6 @@ tripos de datos:
 "mi nombre es :" # ejemplo 2
 "el gato volador " # ejemplo 3
 
-
 """"
 #2
 tipos de datos: 
@@ -26,7 +25,6 @@ tipos de datos:
     float --- con punto flotante o decimal --- 1.2, 2.5, 6.9, 10.0
 
 """
-
 
 """
 #3
@@ -36,13 +34,6 @@ tipo de datos:
     True     o     False
 
 """
-
-
-
-
-
-
-
 
 nombre = "una cadena de texto"
 numerico = 1 #cualquier dato sin desimal

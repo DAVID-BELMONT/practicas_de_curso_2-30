@@ -7,4 +7,4 @@ print("la palabra es ", nombre.isdecimal())
 print("la", nombre.isalpha())
 
 
-print( nombre * numerico)
+print( nombre * numerico)  #  multiplica la palabra las veces que sea nuemerico
