@@ -5,6 +5,7 @@ class Anagrama:
         self.palabra1 = palabra1.lower()
         self.palabra2 = palabra2.lower()
 
+    # no logro compromender lo que se intento hacer en este caso, no le veo mucho sentido.
     def contar_letras(self, palabra):
         conteo = {}
         for letra in palabra:

@@ -41,7 +41,7 @@ class Camioneta(Carro):
         print(f"¿Es 4x4?: {es}")
         
 
-c2 = CarroElectrico("Tesla", "Model 3", 2022, 900000, 450)
+c2 = CarroElectrico("Tesla", "Model 3", 2022, 900000, 450) #las variables tienen que tener sentido en este caso yo hubiera puesto un carro_electronico como variable.
 c2.mostrar_info()
 
 if c2.es_clasico():

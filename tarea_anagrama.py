@@ -27,7 +27,7 @@ class BuscadorAnagramas:
 
             if palabra.lower() == 'salir':
                 print()
-                print("¡Nos vemos, PRINCIPE DEL RAP! ")
+                print("¡Nos vemos, PRINCIPE DEL RAP! ") #pudes usar \n para realizar esos saltos de linea en vez de imprimir lineas en blanco.
                 print()
                 break
 
