@@ -20,7 +20,7 @@ class Celular: #------------------------<<<<  esto es la clase
                 print("❌ No se puede rebajar más de lo que cuesta el celular.")
 
 
-mi_cel = Celular("Xiaomi", "Redmi Note 12", 5500)  #------<<<< creamos el objeto DEL METODO 1
+mi_cel = Celular("Xiaomi", "Redmi Note 12", 5500)  #------<<<< creamos el objeto DEL METODO 1 (no se crea un objeto se inicializa la clase con datos necesarios)
 mi_cel.mostrar_info()    #-------------------------------->>>>> llamamos a  objeto DEL METODO 1
 
 cantidad = int(input("Ingresa $ la rebaja:\n"))

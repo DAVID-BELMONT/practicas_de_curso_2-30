@@ -10,6 +10,8 @@ def mostrar_catalogo(catalogo, nombre: str, page: int = 1, rows: int = 10):
         print("-", item)
 
 def main():
+    # se debio tener un folder para crear estos y aqui solo se mandarian a llamar la informacion, parra no tener el codigo acoplado en el main.
+    # es decir poder borrar el archivo sin tner que reescribir mucho codigo solo llamar metodos.
     roles = Roles()
     roles.lista_roles = [
         "Administrador", "Editor", "Lector", "Invitado", "Moderador", 
