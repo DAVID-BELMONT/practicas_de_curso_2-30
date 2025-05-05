@@ -11,12 +11,12 @@ def mostrar_catalogo(catalogo, nombre: str, page: int = 1, rows: int = 10):
 
 def main():
     roles = Roles()
-    usuarios = Usuarios()
     roles.lista_roles = [
         "Administrador", "Editor", "Lector", "Invitado", "Moderador", 
         "Supervisor", "Analista", "Auditor", "Tester", "Develops"
     ]
     
+    usuarios = Usuarios()
     usuarios.roles = [
         "marco", "laura", "pedro", "sofía", "jorge", 
         "diana", "mateo", "andrea", "alejandro", "valentina"
